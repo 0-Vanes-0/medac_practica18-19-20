@@ -1,1 +1,2 @@
-# medac_practica18-19-20
+# Practica de Entornos: Proyecto de Ivan y Konstantin
+Autores: Ivan Malyshev, Konstantin Petrenko
